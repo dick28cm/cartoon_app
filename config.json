@@ -1,0 +1,15 @@
+{
+  "book_type": "cartoon",
+  "base_url": "http://bookapp.applinzi.com/",
+  "api_url_prefix": "api/v1/",
+  "base_img_url": "http://imgs.yanmd.com",
+  "launch_ad_img": "http://imgs.yanmd.com",
+  "launch_ad_url": "http://m.yanmd.com",
+  "update_version": "1.0.1",
+  "update_build_number": 2,
+  "force_update": true,
+  "update_title": "新版本来袭",
+  "update_content": "1.新版本升级 \r\n 2.尝试一下新鲜玩意",
+  "android_update_url": "http://bookapp.applinzi.com/",
+  "ios_update_url": "http://bookapp.applinzi.com/"
+}
